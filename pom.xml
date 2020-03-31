@@ -11,6 +11,9 @@
 
   <modules>
     <module>oauth2</module>
+    <module>eureka</module>
+    <module>consumer</module>
+    <module>producer</module>
   </modules>
 
 </project>
